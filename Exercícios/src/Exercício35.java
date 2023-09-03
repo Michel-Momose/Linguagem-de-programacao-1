@@ -41,5 +41,3 @@ public class Exercício35 {
         scanner.close();
     }
 }
-
-}

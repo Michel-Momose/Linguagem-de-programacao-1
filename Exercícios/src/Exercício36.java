@@ -24,5 +24,3 @@ public class Exercício36 {
         scanner.close();
     }
 }
-
-}

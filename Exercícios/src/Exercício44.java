@@ -22,5 +22,3 @@ public class Exercício44 {
         scanner.close();
     }
 }
-
-}

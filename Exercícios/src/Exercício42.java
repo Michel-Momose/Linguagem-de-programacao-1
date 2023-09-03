@@ -32,5 +32,3 @@ public class Exercício42 {
         scanner.close();
     }
 }
-
-}
