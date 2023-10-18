@@ -1,5 +1,4 @@
-import veic.Carro;
-
+package veic;
 public class TesteCarro {
 
     public static void main(String[] args) {
